@@ -1,4 +1,4 @@
-# ALTERNATE — live prototype
+# VAULTED — live prototype
 
 An interactive React prototype built from the 28 final screens in the `prototype` frame of the
 pen.dev canvas (`pencil-welcome-desktop.pen`). Copy, figures, colours, type, spacing, icon paths,

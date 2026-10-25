@@ -47,7 +47,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
           transition={{ ...softSpring, delay: 0.26 }}
           style={{ fontFamily: 'var(--display)', fontSize: 34, fontWeight: 500, letterSpacing: '1.2px', color: 'var(--t1)' }}
         >
-          Alternate
+          Vaulted
         </motion.div>
         <motion.div
           initial={{ opacity: 0, y: 8 }}

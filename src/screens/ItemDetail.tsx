@@ -447,7 +447,7 @@ function ObjectTab() {
 
       <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
         <div style={{ fontSize: 11.5, color: 'var(--t3)', lineHeight: 1.5 }}>
-          Shares represent an economic interest in ALTERNATE Series 04 LLP, which holds title to the item.
+          Shares represent an economic interest in VAULTED Series 04 LLP, which holds title to the item.
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 4, fontSize: 11.5, color: 'var(--t2)' }}>
           Read the terms

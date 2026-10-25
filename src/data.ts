@@ -1,4 +1,4 @@
-// Every string, price and figure here comes from the ALTERNATE screens on the pen.dev canvas.
+// Every string, price and figure here comes from the VAULTED screens on the pen.dev canvas.
 
 export const IMG = {
   six: '/img/six.png',
@@ -202,7 +202,7 @@ export const PROVENANCE = [
   { date: '2011 — 2019', title: 'Private ownership', body: 'Held by the recovering steward, then by a single private collector in Mumbai.' },
   { date: 'NOV 2019', title: 'Auction, Mumbai', body: 'Sold at public auction with signed steward testimony and stadium records.' },
   { date: 'JAN 2024', title: 'Authenticated', body: 'Broadcast-frame match and BCCI ball records, certified by Forensic Sports Authentication (India).' },
-  { date: 'FEB 2024', title: 'Acquired by ALTERNATE', body: 'Purchased outright for ₹4,40,000 and moved into the BKC vault.' },
+  { date: 'FEB 2024', title: 'Acquired by VAULTED', body: 'Purchased outright for ₹4,40,000 and moved into the BKC vault.' },
   { date: 'MAR 2024', title: 'Listed', body: '1,000 shares at ₹500 · initial valuation ₹5,00,000.' },
 ]
 
@@ -228,7 +228,7 @@ export const SPECIFICATIONS = [
   { label: 'Date', value: '2 Apr 2011' },
   { label: 'Manufacturer', value: 'SG (Sanspareils Greenlands)' },
   { label: 'Serial no.', value: 'SG-WC11-0621' },
-  { label: 'Held in trust by', value: 'ALTERNATE Series 04 LLP' },
+  { label: 'Held in trust by', value: 'VAULTED Series 04 LLP' },
 ]
 
 export const DOCUMENTS = [

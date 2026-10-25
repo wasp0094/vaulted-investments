@@ -85,7 +85,7 @@ export function Stage() {
       <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
         <Mark size={22} />
         <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
-          <span style={{ fontSize: 12.5, fontWeight: 600, letterSpacing: '0.5px', color: 'var(--t1)' }}>ALTERNATE</span>
+          <span style={{ fontSize: 12.5, fontWeight: 600, letterSpacing: '0.5px', color: 'var(--t1)' }}>VAULTED</span>
           <span style={{ fontSize: 10.5, color: 'var(--t4)' }}>Interactive prototype</span>
         </div>
       </div>

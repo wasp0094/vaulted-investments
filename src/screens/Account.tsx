@@ -75,7 +75,7 @@ export function Account() {
 
       <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 10.5, color: 'var(--t4)', lineHeight: 1.5 }}>
         <Thumb src="/img/vault.png" size={34} radius={8} />
-        Objects are held by ALTERNATE Series LLPs and stored in the BKC vault, insured by Sotheby’s.
+        Objects are held by VAULTED Series LLPs and stored in the BKC vault, insured by Sotheby’s.
       </div>
     </div>
   )

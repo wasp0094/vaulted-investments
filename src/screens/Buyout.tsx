@@ -79,7 +79,7 @@ export function LockScreen() {
               <div style={{ width: 18, height: 18, borderRadius: 5, background: 'var(--brass)', display: 'grid', placeItems: 'center' }}>
                 <Mark size={14} color="#16130f" />
               </div>
-              <span style={{ fontSize: 10.5, fontWeight: 600, letterSpacing: '0.6px', color: 'var(--t2)' }}>ALTERNATE</span>
+              <span style={{ fontSize: 10.5, fontWeight: 600, letterSpacing: '0.6px', color: 'var(--t2)' }}>VAULTED</span>
               <span style={{ marginLeft: 'auto', fontSize: 10.5, color: 'var(--t3)' }}>now</span>
             </div>
             <div style={{ fontSize: 13, fontWeight: 600 }}>
@@ -97,7 +97,7 @@ export function LockScreen() {
       </AnimatePresence>
 
       <div style={{ position: 'absolute', bottom: 46, left: 0, right: 0, textAlign: 'center', fontSize: 11, color: '#f5f2ec8c' }}>
-        Tap the notification to open ALTERNATE
+        Tap the notification to open VAULTED
       </div>
     </motion.div>
   )
